@@ -8,5 +8,7 @@
 * **master** - the central branch of the repository. 
 
 ####Tags  
+> Tags are used to mark points in time during development.
+
 * **release tags** use the naming convention ``release/VERSION_NUMBER``  
 * **review tags** use the naming convention ``review/REVIEW_DATE``
