@@ -16,3 +16,4 @@
 * **review tags** use the naming convention ``review/REVIEW_DATE``
 
 ##Best practices
+* Commit related changes - Each commit should be a wrapper for related changes. Avoid including multiple features or bugfixes in a single commit.
