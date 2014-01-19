@@ -14,3 +14,5 @@
 
 * **release tags** use the naming convention ``release/VERSION_NUMBER``  
 * **review tags** use the naming convention ``review/REVIEW_DATE``
+
+##Best practices
