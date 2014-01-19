@@ -8,7 +8,7 @@
 * **master** - the central branch of the repository. 
 
 ####Tags  
-> Tags are used to freeze versions of the codebase at marked points.
+> Tags are used to capture development milestones.
 
 * **release tags** use the naming convention ``release/VERSION_NUMBER``  
 * **review tags** use the naming convention ``review/REVIEW_DATE``
