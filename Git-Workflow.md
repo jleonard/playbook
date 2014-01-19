@@ -1,5 +1,5 @@
 #Git Workflow
-> Based on Vincent Driessen's [git-flow model](http://nvie.com/posts/a-successful-git-branching-model/)
+> Inspired by Vincent Driessen's [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ####Branches
 * Feature Branches - used for active development. The naming convention is ``feature/FEATURE_NAME``  
