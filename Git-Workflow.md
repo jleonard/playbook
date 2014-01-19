@@ -1,6 +1,8 @@
 #Git Workflow
 > Inspired by Vincent Driessen's [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
+##Naming conventions
+
 ####Branches
 * **feature branches** - used for active development. The naming convention is ``feature/FEATURE_NAME``  
 * **bugfix branches** - quick fixes off of master. The naming convention ``bug/BUG_NAME``  
