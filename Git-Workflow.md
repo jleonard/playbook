@@ -2,7 +2,7 @@
 > Inspired by Vincent Driessen's [git-flow branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ####Branches
-* Feature Branches - used for active development. The naming convention is ``feature/FEATURE_NAME``  
+* **feature branches** - used for active development. The naming convention is ``feature/FEATURE_NAME``  
 * Bugfix branches - quick fixes off of master. The naming convention ``bug/BUG_NAME``  
 * Experiment branches - used for experiments during development. The naming convention is ``experiment/EXPERIMENT_NAME``  
 * master - the central branch of the repository. Branches 
