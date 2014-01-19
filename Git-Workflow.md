@@ -6,5 +6,5 @@
 **experiment branches** - used for experiments during development. The naming convention is ``experiment/EXPERIMENT_NAME``  **master** - the central branch of the repository. Branches 
 
 ####Tags
-**release tags** use the naming convention ``release/VERSION_NUMBER``
+**release tags** use the naming convention ``release/VERSION_NUMBER``  
 **review tags** use the naming convention ``review/REVIEW_DATE``
