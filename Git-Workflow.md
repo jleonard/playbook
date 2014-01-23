@@ -17,6 +17,6 @@
 
 ##Best practices
 * Commit related changes - Each commit should be a wrapper for related changes. Avoid including multiple features or bugfixes in a single commit.
-* Keep master conflict free - Before merging work into master, merge master into your branch to resolve any conflicts first.
+* Keep master conflict free - Always merge master into your branch to resolve conflicts before merging branched work into master.
 * Don't commit large binary files.
 * [Annotate](http://git-scm.com/book/ch2-6.html#Creating-Tags) your tags.
