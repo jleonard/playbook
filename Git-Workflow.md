@@ -19,3 +19,4 @@
 * Commit related changes - Each commit should be a wrapper for related changes. Avoid including multiple features or bugfixes in a single commit.
 * Keep master conflict free - Before merging work into master, merge master into your branch to resolve any conflicts first.
 * Don't commit large binary files.
+* [Annotated](http://git-scm.com/book/ch2-6.html#Creating-Tags) your tags.
