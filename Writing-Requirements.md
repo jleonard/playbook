@@ -1,5 +1,12 @@
 #Writing Requirements
 
+Requirements are basic statements about how an experience is meant to function.
+
+> * System will present User with a map showing <= 10 of the User's friends in the immediate area.
+* System will limit the zoom level of the map to 1 mile.
+* System will display a "no friends nearby" message if 0 friends are found within a 1 mile proximity to the user.
+
+
 ##The Benefits of Documenting Requirements
 
 * Fewer meetings
@@ -15,6 +22,3 @@ A wireframe or visual design without written requirements is only a drawing of a
 * The subject of each sentence will typically be either ***User*** or ***System***.
 
 ####Examples
-> * System will present User with a map showing <= 10 of the User's friends in the immediate area.
-* System will limit the zoom level of the map to 1 mile.
-* System will display a "no friends nearby" message if 0 friends are found within a 1 mile proximity to the user.
