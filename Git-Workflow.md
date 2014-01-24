@@ -16,6 +16,6 @@
 * **review tags** use the naming convention ``review/REVIEW_DATE``
 
 ##Best practices
-* Commit related changes - Each commit should be a wrapper for related changes. Avoid including multiple features or bugfixes in a single commit.
-* Keep master conflict free - Before merging work into master, merge master into your branch to resolve any conflicts first.
+* **Commit related changes** - Each commit should be a wrapper for related changes. Avoid including multiple features or bugfixes in a single commit.
+* **Keep master conflict free** - Before merging work into master, merge master into your branch to resolve any conflicts first.
 * Don't commit large binary files.
